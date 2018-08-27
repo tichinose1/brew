@@ -35,9 +35,12 @@ cask "google-japanese-ime"
 cask "ifunbox"
 cask "inkdrop"
 cask "jetbrains-toolbox"
+cask "marp"
 cask "ngrok"
+cask "postman"
 cask "sourcetree"
 cask "typora"
+cask "virtualbox"
 cask "visual-studio-code"
 mas "Apple Configurator 2", id: 1037126344
 mas "GarageBand", id: 682658836
