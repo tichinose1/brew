@@ -31,6 +31,8 @@ cask "android-studio-preview"
 cask "brave"
 cask "charles"
 cask "docker"
+cask "firefox"
+cask "google-chrome"
 cask "google-japanese-ime"
 cask "ifunbox"
 cask "inkdrop"
@@ -42,6 +44,7 @@ cask "sourcetree"
 cask "typora"
 cask "virtualbox"
 cask "visual-studio-code"
+cask "vivaldi"
 mas "Apple Configurator 2", id: 1037126344
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
